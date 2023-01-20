@@ -1,2 +1,2 @@
 # findDistance
-![plot](C:\Users\Asus\Downloads\Distance.png)
+![Alt text](/Users/Asus/Downloads/Distance.png "Distance")
